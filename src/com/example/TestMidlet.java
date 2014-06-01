@@ -16,9 +16,11 @@ public class TestMidlet extends MIDlet {
     
     @Override
     public void startApp() {
+        System.out.println("Hola");
     }
     
     @Override
     public void destroyApp(boolean unconditional) {
+        System.out.println("Adios");
     }
 }
