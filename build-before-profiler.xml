@@ -5,7 +5,6 @@
 <project name="TestMidlet" default="default" basedir="." xmlns:j2meproject1="http://www.netbeans.org/ns/j2me-embedded-project/1">
     <description>Builds, tests, and runs the project TestMidlet.</description>
     <import file="nbproject/build-impl.xml"/>
-    <import file="nbproject/profiler-build-impl.xml"/>
     <!--
 
     There exist several targets which are by default empty and which can be 
